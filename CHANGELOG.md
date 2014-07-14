@@ -1,3 +1,8 @@
+## 0.5.3 (2014-07-14)
+
+* Change [nixme][pry-debugger] to [deivid-rodriguez][pry-byebug],
+* Add Ruby 2.1 compatibility.
+
 ## 0.5.2 (2013-10-24)
 
 * Upgrade [pry-rails][pry-rails] to the latest 0.3.2,
